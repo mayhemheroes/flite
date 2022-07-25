@@ -1,6 +1,6 @@
 project: rnshah9/flite
 target: flite
-tests:
+testsuite:
   - file://test
 
 cmds:
