@@ -1,7 +1,7 @@
-project: rnshah9/flite
+project: flite
 target: flite
 testsuite:
   - file://test
 
 cmds:
-  - cmd: /repo/bin/flite @@ none
+  - cmd: /install/bin/flite @@ none
